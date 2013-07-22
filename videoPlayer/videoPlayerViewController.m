@@ -20,6 +20,7 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     // Comment 1
+    // Second Comment, just created a remote repository on github
 }
 
 - (void)didReceiveMemoryWarning
